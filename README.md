@@ -19,3 +19,5 @@
 3. `Letter.js` *should not* `require` any other files.
 
 4. `Word.js` *should only* require `Letter.js`
+
+![wordguess1] (https://github.com/bpacana/Constructor-Word-Guess/blob/master/Wordguess%20Screenshot%20Images/wordGuess1.png?raw=true)
