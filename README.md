@@ -23,10 +23,10 @@
 ![wordguess1] (https://raw.githubusercontent.com/bpacana/Constructor-Word-Guess/master/wordGuess1.png)
 
 
-![wordguess1] (https://raw.githubusercontent.com/bpacana/liri-node-app/master/movie-this.png)
+![wordguess1] (https://raw.githubusercontent.com/bpacana/Constructor-Word-Guess/master/wordGuess2.png)
 
 
-![wordguess1] (https://raw.githubusercontent.com/bpacana/liri-node-app/master/movie-this.png)
+![wordguess1] (https://raw.githubusercontent.com/bpacana/Constructor-Word-Guess/master/wordGuess3.png)
 
 
-![wordguess1] (https://raw.githubusercontent.com/bpacana/liri-node-app/master/movie-this.png)
+![wordguess1] (https://raw.githubusercontent.com/bpacana/Constructor-Word-Guess/master/wordGuess4.png)
