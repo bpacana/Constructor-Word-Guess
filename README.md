@@ -20,13 +20,13 @@
 
 4. `Word.js` *should only* require `Letter.js`
 
-![Image movie-this2] (https://raw.githubusercontent.com/bpacana/Constructor-Word-Guess/master/wordGuess1.png)
+![Image wordguess1](https://raw.githubusercontent.com/bpacana/Constructor-Word-Guess/master/wordGuess1.png)
 
 
-![Image movie-this2] (https://raw.githubusercontent.com/bpacana/Constructor-Word-Guess/master/wordGuess2.png)
+![Image wordguess2](https://raw.githubusercontent.com/bpacana/Constructor-Word-Guess/master/wordGuess2.png)
 
 
-![Image movie-this2] (https://raw.githubusercontent.com/bpacana/Constructor-Word-Guess/master/wordGuess3.png)
+![Image wordguess3](https://raw.githubusercontent.com/bpacana/Constructor-Word-Guess/master/wordGuess3.png)
 
 
-![Image movie-this2] (https://raw.githubusercontent.com/bpacana/Constructor-Word-Guess/master/wordGuess4.png)
+![Image wordguess4](https://raw.githubusercontent.com/bpacana/Constructor-Word-Guess/master/wordGuess4.png)
